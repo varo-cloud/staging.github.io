@@ -1,0 +1,1 @@
+import{C as e,R as t,lt as n,n as r,v as i}from"./vue-i18n-CQum_4RI.js";import{t as a}from"./PagePlaceholder-DiBLF2M5.js";var o=e({__name:`DocsView`,setup(e){let{t:o}=r();return(e,r)=>(t(),i(a,{title:n(o)(`pages.docs.title`),description:n(o)(`pages.docs.placeholder`)},null,8,[`title`,`description`]))}});export{o as default};
