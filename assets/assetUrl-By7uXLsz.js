@@ -1,1 +1,0 @@
-import{g as e}from"./vue-i18n-CQum_4RI.js";function t(t,n){return e(()=>{for(let e of n)if(t[e]!==void 0)return t[e];return t[n[n.length-1]]})}function n(e){if(!e)return`/staging.github.io/`;if(/^https?:\/\//i.test(e))return e;let t=`/staging.github.io/`;return e.startsWith(t)?e:`${t}${e.startsWith(`/`)?e.slice(1):e}`}export{t as n,n as t};
