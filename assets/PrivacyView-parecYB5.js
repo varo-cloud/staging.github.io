@@ -1,1 +1,0 @@
-import{C as e,R as t,n,ut as r,v as i}from"./vue-i18n-DMHcr8bP.js";import{t as a}from"./PagePlaceholder-Cl4SdEzl.js";var o=e({__name:`PrivacyView`,setup(e){let{t:o}=n();return(e,n)=>(t(),i(a,{title:r(o)(`pages.privacy.title`),description:r(o)(`pages.privacy.placeholder`)},null,8,[`title`,`description`]))}});export{o as default};

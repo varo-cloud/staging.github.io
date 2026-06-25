@@ -1,0 +1,1 @@
+import{C as e,R as t,n,ut as r,v as i}from"./vue-i18n-d5LvKhlL.js";import{t as a}from"./PagePlaceholder-Bigm6uNp.js";var o=e({__name:`TermsView`,setup(e){let{t:o}=n();return(e,n)=>(t(),i(a,{title:r(o)(`pages.terms.title`),description:r(o)(`pages.terms.placeholder`)},null,8,[`title`,`description`]))}});export{o as default};
