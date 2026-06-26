@@ -1,4 +1,4 @@
-import{L as e,S as t,_ as n,lt as r}from"./vue.runtime.esm-bundler-CWe61849.js";import{t as i}from"./LegalDocument-BzTFI3F1.js";var a=`# Varo.cloud Privacy Policy
+import{L as e,S as t,_ as n,lt as r}from"./vue.runtime.esm-bundler-CWe61849.js";import{t as i}from"./LegalDocument-BzPvNY8Z.js";var a=`# Varo.cloud Privacy Policy
 
 _Effective date: June 25, 2026_
 
